@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "SUV",
+      "description": "A list of SUVs"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "SUV",
+      "postId": 1,
+      "name": "Highlander",
+      "display_name": "Highlinder",
+      "description": "2019 Toyota Highlinder"
+    },
+    {
+      "_id": 3
+    },
+    {
+      "_id": 4
+    },
+    {
+      "_id": 5
+    }
+  ]
+}
